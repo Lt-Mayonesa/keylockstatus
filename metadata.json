@@ -1,0 +1,6 @@
+{
+    "description": "Shows whether caps lock/num lock is on, and displays a notification when these change. It's a fork of entelechy's betterlock",
+    "icon": "numlock-enabled",
+    "uuid": "keylockstatus@lt-mayonesa",
+    "name": "Key Lock Status"
+}
